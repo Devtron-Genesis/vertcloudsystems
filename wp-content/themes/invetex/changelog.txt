@@ -1,0 +1,51 @@
+Version 1.7
+    Added:
+        - Compatibility with Gutenberg
+        - WP GDPR Compliance plugin
+        - Contact Form 7 plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+
+    Fixed:
+        - Compatibility with WP 5.0
+        - Update plugins to their latest versions
+        - Improve theme styles
+        - Update documentation
+
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+        - Replace default contact forms with Contact Form 7
+        - Move Importer to ThemeREX Utilities plugin
+        - Move theme options, widgets and shortcodes to Themerex Utilities plugin
+        - Update demo data
+
+Version 1.6.1
+    Fixed:
+	- RTL icon display ( rtl.css )
+	- RTL search form display ( rtl.css )
+	- Mobile menu
+
+
+Version 1.5
+	Compatibility with PHP7
+	RTL support is added
+	Plugins updated
+
+Version 1.4
+	Plugins updated
+	The theme is now compatible with version WooCommerce 3.0.2 and higher
+	trx_utils plugins updated (v.3.0)
+
+Version 1.3
+	Social login improved
+
+Version 1.2
+	Color schemes and fonts load for correct adding, deleting and changing of  scheme order is fixed
+	WP Playlist's initialization if fixed
+
+Version 1.1
+	vc_extensions_bundlePage preloader fixed (safari)
+	vc_extensions_bundleHeader's display on mobile phone is fixed.
+
+Version 1.0
+	Release (Version 3.7.5)
